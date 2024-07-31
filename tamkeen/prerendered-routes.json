@@ -2,6 +2,7 @@
   "routes": [
     "/",
     "/home",
+    "/sessions",
     "/testimonial"
   ]
 }

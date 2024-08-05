@@ -1,6 +1,10 @@
 {
   "routes": [
     "/",
+    "/admin-blogs",
+    "/admin-contacts",
+    "/admin-dashboard",
+    "/admin-log",
     "/blog",
     "/blogs",
     "/courses",
